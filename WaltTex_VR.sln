@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaltTex_VR", "WaltTex_VR.csproj", "{74E5C20B-1CF8-E86B-D2B0-24E167E29EAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaltTex_VR.Editor", "WaltTex_VR.Editor.csproj", "{027636EF-2D59-22E8-9BF3-CCB57D700E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E5C20B-1CF8-E86B-D2B0-24E167E29EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E5C20B-1CF8-E86B-D2B0-24E167E29EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E5C20B-1CF8-E86B-D2B0-24E167E29EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E5C20B-1CF8-E86B-D2B0-24E167E29EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027636EF-2D59-22E8-9BF3-CCB57D700E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027636EF-2D59-22E8-9BF3-CCB57D700E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027636EF-2D59-22E8-9BF3-CCB57D700E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027636EF-2D59-22E8-9BF3-CCB57D700E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
